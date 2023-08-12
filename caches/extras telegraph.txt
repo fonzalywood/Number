@@ -12,15 +12,5 @@ BT Sport 4 UK
 fc5089d8e1519872fdf951779ccbca913acc9bce
 Sky Sports Arena UK
 d317a003e8047da2c36a2a2bb2289578c9a3b79c
-Sky Sports PREMIER LEAGUE UK
-8d976b2a90dce3b57ed094bd8a6152335c66bbc9
-Sky Sports Football UK
-8dbe2d515e9131fa311353537736f8c94be9b26d
 Sky Sports Main Event UK
 eab7aeef0218ce8b0752e596e4792b69eda4df5e
-Sky Sports Plus UK
-ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-Premier Sports 1 UK
-75a56863b6fe0407ad4305b4d7ee5643c3923565
-Premier Sports 2 UK
-4903ca695edb64bc72ae29eb85a5333ba0139537
