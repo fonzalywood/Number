@@ -157,7 +157,7 @@ http://192.168.1.90:8008/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.1.90:8008/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN Sports Xtra Ñ  92a7
 http://192.168.1.90:8008/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-#EXTINF:-1 group-title="Otros deportes" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sports Racing  7780
+#EXTINF:-1 group-title="Otros deportes" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Racing  7780
 http://192.168.1.90:8008/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1 group-title="Otros deportes" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Voetbal NL  9576
 http://192.168.1.90:8008/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
