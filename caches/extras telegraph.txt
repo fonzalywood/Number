@@ -8,10 +8,16 @@ FOX Sports 1 US
 c9c062941fbecb16ce29437f346ea7177d720898
 FOX Sports 2 US
 cba8d369eac629b577750edb90370cd1c5fb03b7
-Sky Sports Arena UK
-d317a003e8047da2c36a2a2bb2289578c9a3b79c
 Sky Sports Main Event UK
 eab7aeef0218ce8b0752e596e4792b69eda4df5e
+Sky Sports Premier League UK
+ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+Sky Sports Football UK
+8dbe2d515e9131fa311353537736f8c94be9b26d
+Sky Sports Arena UK
+d317a003e8047da2c36a2a2bb2289578c9a3b79c
+Sky Sports F1 DE
+b04372b9543d763bd2dbd2a1842d9723fd080076
 BT Sport 1 UK
 efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 BT Sport 2 UK
@@ -22,12 +28,10 @@ BT Sport 4 UK
 fc5089d8e1519872fdf951779ccbca913acc9bce
 beIN Sports Xtra Ñ
 92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-Ziggo Sport Racing NL
-77800bb07c1d69135024ee2379c97472eb12dd45
 Ziggo Sport Voetbal NL
 95769f95c6af45e8ec46526c3be1104d0a0c7b91
-Sky Sports F1 DE
-b04372b9543d763bd2dbd2a1842d9723fd080076
+Ziggo Sport Racing NL
+77800bb07c1d69135024ee2379c97472eb12dd45
 Motorvision TV DE
 acd7e3ae185a376e6596e60a414bebbf3321b37f
 La2
