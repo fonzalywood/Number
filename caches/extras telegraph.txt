@@ -32,7 +32,5 @@ Ziggo Sport Voetbal NL
 95769f95c6af45e8ec46526c3be1104d0a0c7b91
 Ziggo Sport Racing NL
 77800bb07c1d69135024ee2379c97472eb12dd45
-Motorvision TV DE
-acd7e3ae185a376e6596e60a414bebbf3321b37f
 La2
 2001b0d65d41ffc4086070bf7a63bdb1c59ea737
