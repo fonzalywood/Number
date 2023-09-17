@@ -13,7 +13,7 @@ plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab
 https://www.f1-tempo.com/
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" ,ep2 LaLiga UHD  be07
 plugin://script.module.horus?action=play&id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg" ,M. LaLiga 1440P  dce1
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga UHD mas info grupo telegram  dce1
 plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga 1080P  aa82
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
