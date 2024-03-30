@@ -34,5 +34,3 @@ Ziggo Sport Voetbal NL
 95769f95c6af45e8ec46526c3be1104d0a0c7b91
 Ziggo Sport Racing NL
 77800bb07c1d69135024ee2379c97472eb12dd45
-Tennis Channel US
-756aa727f132136b43e1937affcc69cbe40fccad
